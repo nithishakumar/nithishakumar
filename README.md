@@ -5,5 +5,5 @@
 🌱 I’m currently working on refining my skills in Data Structres and Algorithms. <br>
 😄 Pronouns: she/her <br>
 🥽 I enjoy working on XR projects! <br>
-🔍 Learn more about me @ nithishakumar.github.io <br>
+🔍 Learn more about me @ https://nithishakumar.github.io/ <br>
 
