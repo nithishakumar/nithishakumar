@@ -1,4 +1,4 @@
-### Hi, I'm Nithisha!👋
+# Hi, I'm Nithisha!👋👩🏾
 
 🏫 I'm a junior studying CS at the University of Michigan. <br>
 🔭 I’m developing my skills in AWS, Python, and databases by working on a facial image processing application at Amway. <br>
