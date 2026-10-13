@@ -1,4 +1,4 @@
-# Hi, I'm Nithisha!👋👩🏾
+# Hi, I'm Nithisha!👋
 
 🏫 I'm a recent graduate of the University of Michigan working as a software engineer at Niantic (Pokémon GO). <br>
 #### 
